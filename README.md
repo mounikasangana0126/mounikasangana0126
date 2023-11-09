@@ -1,10 +1,10 @@
 
 #  👋 Hi, I’m Mounika Sangana
-- 👨‍🔬 Exploring new technologies and developing software solutions
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning React JS, Node JS.
+- 🚀 Aspiring developer and technology enthusiast
+- 📚 Currently exploring the world of coding
+- 🌱 Constantly learning and building
+- 💻 Let's connect and create together
 - 👯 I’m looking to collaborate on dsa, Node JS,React JS
-- 😄 Passionate about accessibility and committed to a web that works for everyone
 - 📫 How to reach me https://www.linkedin.com/in/sri-satya-mounika-sangana-60a718215/
 
 # 🛠 &nbsp;Tech Stack
