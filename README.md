@@ -23,7 +23,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
   ![Django REST](https://img.shields.io/badge/-Django%20REST-009688?style=flat&logo=django)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
