@@ -5,7 +5,7 @@
 - 🌱 Constantly learning and building
 - 💻 Let's connect and create together
 - 👯 I’m looking to collaborate on DSA, React JS, Django
-- 📫 How to reach me https://www.linkedin.com/in/sri-satya-mounika-sangana-60a718215/
+- 📫 How to reach me https://www.linkedin.com/in/mounitechie/
 
 # 🛠 &nbsp;Tech Stack
 
