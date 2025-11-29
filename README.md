@@ -38,7 +38,7 @@
 
 
 # My Stats
-![GitHub Stats](generated-stats/github-stats.svg)
+![GitHub Stats](https://raw.githubusercontent.com/mounikasangana0126/mounikasangana0126/main/generated-stats/github-stats.svg)
 
 ![Top Languages](generated-stats/top-langs.svg)
 
