@@ -38,21 +38,13 @@
 
 
 # My Stats
-<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mounikasangana0126&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Stats](https://github-readme-stats-mu-olive.vercel.app/api?username=mounikasangana0126&show_icons=true&count_private=true&theme=radical)
--->
 
 ![Top Languages](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=mounikasangana0126&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mounikasangana0126&theme=radical)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mounikasangana0126&theme=radical&no-frame=true&column=7)
-
-![Contribution Graph](https://ghchart.rshah.org/mounikasangana0126)
-
-![Snake animation](https://github.com/mounikasangana0126/github-readme-snake/raw/main/github-snake.svg)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounikasangana0126)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
