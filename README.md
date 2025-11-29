@@ -38,8 +38,7 @@
 
 
 # My Stats
-[![Mounika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounikasangana0126&count_private=true&show_icons=true&theme=radical&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Mounika's GitHub stats](https://github-readme-stats-mu-olive.vercel.app/api?username=mounikasangana0126&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounikasangana0126)](https://github.com/anuraghazra/github-readme-stats)
 
