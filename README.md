@@ -38,9 +38,20 @@
 
 
 # My Stats
-![GitHub Stats](https://raw.githubusercontent.com/mounikasangana0126/mounikasangana0126/main/generated-stats/github-stats.svg)
+<!--
+![GitHub Stats](https://github-readme-stats-mu-olive.vercel.app/api?username=mounikasangana0126&show_icons=true&count_private=true&theme=radical)
+-->
 
-![Top Languages](generated-stats/top-langs.svg)
+![Top Languages](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=mounikasangana0126&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mounikasangana0126&theme=radical)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mounikasangana0126&theme=radical&no-frame=true&column=7)
+
+![Contribution Graph](https://ghchart.rshah.org/mounikasangana0126)
+
+![Snake animation](https://github.com/mounikasangana0126/github-readme-snake/raw/main/github-snake.svg)
+
 
 
 
