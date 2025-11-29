@@ -46,9 +46,10 @@
 
 ![Top Languages](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=mounikasangana0126&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mounikasangana0126&theme=radical)
 
 <!---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mounikasangana0126&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounikasangana0126)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
