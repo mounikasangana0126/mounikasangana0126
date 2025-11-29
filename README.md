@@ -38,9 +38,9 @@
 
 
 # My Stats
-[![Mounika's GitHub stats](https://github-readme-stats-mu-olive.vercel.app/api?username=mounikasangana0126&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](generated-stats/github-stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounikasangana0126)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](generated-stats/top-langs.svg)
 
 
 
