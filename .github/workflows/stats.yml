@@ -1,0 +1,28 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every 24 hours (00:00 UTC)
+  workflow_dispatch:       # Allows manual run anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Stats SVG
+        run: |
+          mkdir -p generated-stats
+          curl -o generated-stats/github-stats.svg "https://github-readme-stats.vercel.app/api?username=mounikasangana0126&show_icons=true&theme=radical"
+          curl -o generated-stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=mounikasangana0126&layout=compact&theme=radical"
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add generated-stats/*
+          git commit -m "Update stats SVG" || echo "No changes to commit"
+          git push
